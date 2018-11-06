@@ -1,0 +1,4 @@
+https://github.com/rebassjs/grid
+https://github.com/jxnblk/mdx-deck/blob/master/docs/components.md#layouts
+Option + p = presentor mode
+Option + o = overview mode
